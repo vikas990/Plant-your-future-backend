@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "e45407bc-4a96-49b2-b8ef-277fdf82771e",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:4000/api/auth/register",
+    "url": "http://localhost:4000/api/auth/register",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-07-02T10:19:51.367Z",
+    "modified": "2022-07-02T10:19:51.446Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [
+        {
+          "name": "username",
+          "value": "Vikas"
+        },
+        {
+          "name": "password",
+          "value": "12345678"
+        },
+        {
+          "name": "password2",
+          "value": "12345678"
+        },
+        {
+          "name": "email",
+          "value": "vikaskumatp66@email.com"
+        }
+      ]
+    },
+    "tests": []
+  },
+  {
+    "_id": "5e8d4eed-26cf-4907-b95b-7d0cb8e7fad7",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:4000/api/auth/register",
+    "url": "http://localhost:4000/api/auth/register",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-07-02T10:19:56.328Z",
+    "modified": "2022-07-02T10:20:26.354Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [
+        {
+          "name": "username",
+          "value": "Vikas"
+        },
+        {
+          "name": "password",
+          "value": "12345678"
+        },
+        {
+          "name": "password2",
+          "value": "12345678"
+        },
+        {
+          "name": "email",
+          "value": "vikaskumatp66@email.com"
+        }
+      ]
+    },
+    "tests": []
+  }
+]
