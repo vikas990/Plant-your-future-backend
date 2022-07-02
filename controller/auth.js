@@ -47,7 +47,6 @@ module.exports.register = async (req, res) => {
       }
     }
   } catch (error) {
-    console.log(error);
     let status = 500;
     let msg = "Internal Server Error";
     if (error.isJoi === true) {
